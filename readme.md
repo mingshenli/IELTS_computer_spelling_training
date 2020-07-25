@@ -5,7 +5,7 @@ The interface is based on PyQt5, one may need to install anaconda with python 3 
 ## user guide
 ### the words list
 <div  align="center">    
-  <img src="interface.png" width = "300" height = "200" alt="interface" align=center />
+  <img src="interface.png" width =500" height = "400" alt="interface" align=center />
   </div>
            <center>the interfece</center>
 
