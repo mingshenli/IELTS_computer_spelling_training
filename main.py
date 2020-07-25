@@ -6,12 +6,12 @@ Created on Fri Jul 24 17:06:30 2020
 """
 
 from gui_import import Main_control_window
-import os
+
 import time as t
-import logging
+
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import QMessageBox,QFileDialog,QMessageBox
-import sys,copy,re
+from PyQt5.QtWidgets import QFileDialog
+import sys
 from PyQt5.QtCore import Qt, QThread,pyqtSignal, QTimer
 #from translator import translator
 
